@@ -27,7 +27,7 @@ class ViewController: UIViewController {
 
         }
     
-        print("Куйня")
+        print("Куйня22222")
         
     }
     
